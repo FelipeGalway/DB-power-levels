@@ -1,0 +1,1 @@
+Projeto pessoal desenvolvido com HTML e CSS, focado na aprendizagem e aprimoramento de habilidades em desenvolvimento web.
